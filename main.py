@@ -52,4 +52,3 @@ for i in range(10000):
 	bg.update()
 
 bg.update()
-
